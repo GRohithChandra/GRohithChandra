@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GRohithChandra
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning C,Java,python
+-  C,Javascript,python,c++
 -  want to be a developer
 
 <!---
